@@ -4,3 +4,4 @@ pnpm-lock.yaml
 .env
 sdk_tokens.txt
 package-lock.json
+resources/
