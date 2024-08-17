@@ -1,16 +1,11 @@
 {
   "name": "crm_test_job",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node --env-file=.env index.js "
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
   "dependencies": {
     "@zohocrm/nodejs-sdk-7.0": "^2.0.0",
     "csv-parse": "^5.5.6"

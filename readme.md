@@ -12,6 +12,7 @@
 - There are two classes `Initizalizer` and `Record`, they are used to initialize the program and record the data, each one has its own methods to achieve the funtionalities
 - The `Record` class has three methods `upsertRecords`, `updateRecords` and `deleteRecords`
 - The `Initializer` class has one method `initialize` which is used to initialize the program
+- Check the `env.local` file to check the environment variables that are used in the program
 
 ## How to Run
 
